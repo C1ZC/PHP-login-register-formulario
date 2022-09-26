@@ -1,2 +1,3 @@
 # PHP-login-register-formulario
-formulario con registro y login y conexion mysql
+formulario con registro, login, conexion mysql muestra tabla de los con botones modificar, eliminar.
+incluye barra de busqueda
