@@ -5,7 +5,7 @@
 
 --
 -- Estructura de tabla para la tabla `usuarios`
--- Estructura de tabla para la tabla `profesore`
+-- Estructura de tabla para la tabla `autos`
 --
 CREATE DATABASE automotora;
 
